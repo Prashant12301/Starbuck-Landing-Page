@@ -1,4 +1,4 @@
-# Starbucks Landing Page Clone
+# Starbucks Landing Page 
 
 ## Features
 - Fully responsive layout  
